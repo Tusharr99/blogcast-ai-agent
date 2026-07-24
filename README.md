@@ -27,8 +27,8 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps
-   cd starter_ai_agents/ai_blogcast_agent
+   git clone https://github.com/Tusharr99/blogcast-ai-agent.git
+   cd blogcast-ai-agent
    ```
 
 2. Install the required Python packages:
@@ -50,3 +50,6 @@
     - Click "🎙️ Generate Podcast".
 
     - Listen to the generated podcast or download it.
+
+---
+Developed by [Tusharr99](https://github.com/Tusharr99)
