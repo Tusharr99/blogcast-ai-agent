@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment & API keys
+.env
+.env.local
+
+# Audio files / local outputs
+*.mp3
+*.wav
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
