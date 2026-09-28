@@ -52,4 +52,3 @@
     - Listen to the generated podcast or download it.
 
 ---
-Developed by [Tusharr99](https://github.com/Tusharr99)
